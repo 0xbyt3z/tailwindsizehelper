@@ -3,7 +3,7 @@ a simple css file to help you identify screen sizes when working with tailwindcs
 
 ```bash
 
-curl https://raw.githubusercontent.com/0xbyt3z/tailwindsizehelper/main/tailwindscreens.css --output {filename}
+curl https://raw.githubusercontent.com/0xbyt3z/tailwindsizehelper/main/tailwindscreens.css -o {filename}
 ```
 
 
